@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, Michael here 👋
+
+- 💻 I vividly remember the first time I used a computer at the age of 6, it captured my imagination ever since
+- 📖 I studied Business Administration in Barcelona, my home town
+- ⌨️ I'm a self-taught developer. I fell in love with Python and recently JavaScript and TypeScript are occupying a special place in my heart
+- 🔨 I'm a builder, I love to solve problems and build awesome products
+- 🤓 I'm building a SaaS startup that autmates cusotmer-facing processes for large B2C companies
+- 🤙 I'm hiring a CTO
+
 
 <!--
 **MichaelGradek/MichaelGradek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
